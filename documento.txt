@@ -1,2 +1,0 @@
-primero vamos a usar git de forma local
-despues aprenderemos GitHub
